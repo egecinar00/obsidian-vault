@@ -11,14 +11,10 @@
             "id": "65c9576c7a8bf320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-MOC's/Dönem 2 Hematologji MOC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dönem 2 Hematologji MOC"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f822c60d9ab19d76",
@@ -196,8 +192,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -205,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +217,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "99d0a3536a1834f7",
+  "active": "65c9576c7a8bf320",
   "lastOpenFiles": [
-    "Kanın Görevleri.md",
+    "3-MOC's/Extracellular Matrix & Connective Tissue MOC.md",
+    "Collagen.md",
+    "3-MOC's/Hematology MOC.md",
     "3-MOC's/Dönem 2 Hematologji MOC.md",
+    "Kanın Görevleri.md",
     "0-Sketches/Kan Nedir.md",
     "Kanın Taşıma İşlevi.md",
     "0-Sketches",
